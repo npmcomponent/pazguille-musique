@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pazguille/musique](http://github.com/pazguille/musique). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pazguille-musique`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # musique.js [![Build Status](https://secure.travis-ci.org/pazguille/musique.png)](http://travis-ci.org/pazguille/musique) [![devDependency Status](https://david-dm.org/pazguille/musique/dev-status.png)](https://david-dm.org/pazguille/musique#info=devDependencies)
 
 > A JavaScript Music Player API to create custom players.
